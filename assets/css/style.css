@@ -1,0 +1,23 @@
+/*jumbotron*/
+.jumbotron{
+    background-color: black;
+    text-align: center;
+    color: #ebef32;
+    margin-bottom: 1%;
+}
+
+#directions-text{
+    
+}
+/*CONTENT*/
+.content{
+    background-color: #612557;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 3%;
+    margin-top: -2%;
+    
+    
+
+
+}
